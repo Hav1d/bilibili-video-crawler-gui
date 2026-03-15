@@ -1,4 +1,4 @@
-<video src="./assets/demo.mp4" controls="controls" width="100%"></video>
+<video src="https://github.com/Hav1d/bilibili-video-crawler-gui/issues/1#issue-4078076515" controls="controls" width="100%"></video>
 
 # 📺 Bilibili 视频数据获取与热度预测系统 (Bilibili Data Analyzer & Predictor)
 
