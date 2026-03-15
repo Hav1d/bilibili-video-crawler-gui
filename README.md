@@ -1,3 +1,5 @@
+<video src="./assets/demo.mp4" controls="controls" width="100%"></video>
+
 # 📺 Bilibili 视频数据获取与热度预测系统 (Bilibili Data Analyzer & Predictor)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -5,7 +7,6 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-yellow.svg)
 ![GUI](https://img.shields.io/badge/GUI-wxPython-lightgrey.svg)
 
-<video src="./assets/demo.mp4" controls="controls" width="100%"></video>
 
 ## 📖 项目简介
 
@@ -61,7 +62,6 @@ python main.py
 (注：如果需要重新训练机器学习模型，可以运行 python Generate_model.py)
 
 ## 📸 界面预览
-(提示：你可以将截图上传到 GitHub issues 或直接放入项目文件夹，然后在这里替换图片链接)
 
 * **登录与主界面**
 
