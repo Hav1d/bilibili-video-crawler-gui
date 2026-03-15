@@ -38,7 +38,7 @@
 请确保你的电脑已安装 Python 3.8 或以上版本，并在命令行运行以下命令安装所需依赖库：
 ```bash
 pip install wxPython pymysql sqlalchemy requests aiohttp aiofiles fake_useragent pandas numpy scikit-learn matplotlib joblib pillow
-
+```
 ### 2. 数据库配置
 确保本地已安装并启动 MySQL 服务 (默认端口 3306)。
 
@@ -55,6 +55,7 @@ root.sql / super_root.sql / user.sql / video_details.sql
 
 ```bash
 python main.py
+```
 (注：如果需要重新训练机器学习模型，可以运行 python Generate_model.py)
 
 ## 📸 界面预览
