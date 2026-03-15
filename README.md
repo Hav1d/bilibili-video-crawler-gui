@@ -5,7 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-yellow.svg)
 ![GUI](https://img.shields.io/badge/GUI-wxPython-lightgrey.svg)
 
-https://github.com/Hav1d/bilibili-video-crawler-gui/raw/main/assets/demo.mp4
+<video src="https://github.com/Hav1d/bilibili-video-crawler-gui/raw/main/assets/demo.mp4" controls="controls" width="100%"></video>
 
 ## 📖 项目简介
 
