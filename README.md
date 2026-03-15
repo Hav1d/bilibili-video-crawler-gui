@@ -5,6 +5,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-yellow.svg)
 ![GUI](https://img.shields.io/badge/GUI-wxPython-lightgrey.svg)
 
+https://github.com/Hav1d/bilibili-video-crawler-gui/raw/main/assets/demo.mp4
+
 ## 📖 项目简介
 
 本项目是一个基于 Python 开发的 Bilibili 视频平台数据获取、可视化分析及热度预测的综合性桌面端软件。
